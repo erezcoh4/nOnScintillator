@@ -1,0 +1,3 @@
+/control/execute init_vis.mac
+/run/beamOn 1000
+exit

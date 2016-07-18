@@ -1,0 +1,3 @@
+/Users/erezcohen/Desktop/Geant4Projects/nOnScintillator/BUILD/CMakeFiles/edit_cache.dir
+/Users/erezcohen/Desktop/Geant4Projects/nOnScintillator/BUILD/CMakeFiles/rebuild_cache.dir
+/Users/erezcohen/Desktop/Geant4Projects/nOnScintillator/BUILD/CMakeFiles/nOnScintillator.dir
